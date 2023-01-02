@@ -1,1 +1,1 @@
-# spring2023
+# IST256 Spring 2023 Course
